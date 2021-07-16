@@ -1,0 +1,24 @@
+TRABALHO INDIVIDUAL 1
+
+
+
+1 -Programação Orientada ao objeto é um modelo usado para ajudar o trabalho do programador aproximando o mundo real do virtual usando classes, objetos, atributos, métodos entre outros 
+
+2 - Classe - São uma estrutura de dados que descreve o comportamento do objeto, quando criada ela define as propriedades e atributos e deixa claro as funcionalidades dos objetos, sendo descritas pelos métodos.
+
+3 -Método - Uma parte da classe que implementa uma ação que pode ser usada pelo objeto ou classe determinando seu comportamento
+
+4 - Herança é apossibilita que classes usem os mesmos atributos, métodos e outros membros de classe entre si como elementos separados adotando um relacionamento de hierarquia.
+Sendo que, a classe mãe, vai ficar com os atributos, métodos e outros elementos que as classes filhas vão herdar as características que elas compartilham sendo que cada classe filha vai usar isso de forma individual junto com os parâmetros únicos dentro delas
+exemplos disso seria uma classe mãe que possui um atributo chamado ID e esse atributo será usado em mais três outras classes chamadas produto, cliente e funcionário
+Essas classes tem seus próprios elementos, porém iram usar o mesmo atributo chamado ID que ficará na classe mãe
+
+5 - Composição acontecerá quando uma classe A estiver contida em uma classe B, Um exemplo disso seria uma classe carro e uma classe motor sendo que toda classe carro teria a classe motor contida nela 
+
+6 - Um parâmetro é uma variável que receberá um valor dentro de uma variável e um argumento é o valor que se passa para a variável do parâmetro quando a função é chamada.
+
+7 - Sobrecarga de métodos permite que o programador defina vários métodos com o mesmo nome, porém eles devem ter parâmetros diferentes para funcionar
+
+8 - Parâmetros opcionais é quando dentro do método é adicionado um parâmetro com um valor padrão que pode ser ignorado quando o método é chamado, esse parâmetro opcional deve ser colocado no final da lista de parâmetros depois do final dos parâmetros obrigatórios
+
+9 - Parâmetros Nomeados são usados com a intenção de não precisar seguir a ordem de parâmetros para colocar os valores, apenas sabendo o nome do parâmetro e colocando o valor depois de dois pontos quando o método for chamado
