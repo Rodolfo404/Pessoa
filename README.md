@@ -24,3 +24,8 @@ Trabalho individual 1 - Pratica
 
 OBS: Adicione o arquivo e o código a um repositório do GITHUB e compartilhe com @Maykondgraneman
 conclusão até 16/07 às 16h
+
+
+
+
+https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
